@@ -60,6 +60,7 @@ def apply_clearance(cart)
   if stats[:clearance]
     
 end
+end
 cart
 end
 
